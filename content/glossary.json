@@ -349,5 +349,68 @@
     "cat": "Structure",
     "def": "A structure where an offshore company controls a domestic operating company through contracts rather than shares, used where foreign ownership is restricted. It is a workaround with real enforcement risk, not a licence.",
     "see": ["negative-list", "hong-kong-holding-company"]
+  },
+  {
+    "id": "stamp-duty",
+    "term": "印花税",
+    "pinyin": "Yìnhuāshuì",
+    "english": "Stamp duty",
+    "cat": "Money",
+    "def": "A small transaction tax on specified documents, charged to both parties in most cases: 0.03% on sales contracts, 0.1% on leases, 0.05% on equity transfers and 0.025% on capital account books. It is easy to overlook and easy to accrue penalties on.",
+    "see": ["china-tax-for-small-companies", "office-lease-and-premises", "changing-shareholders-and-exiting"]
+  },
+  {
+    "id": "statutory-reserve",
+    "term": "法定公积金",
+    "pinyin": "Fǎdìng gōngjījīn",
+    "english": "Statutory reserve fund",
+    "cat": "Money",
+    "def": "A fund built from 10% of after-tax profit until it reaches 50% of registered capital. Dividends cannot be distributed until the reserve is funded, which is one reason a profitable company can still be unable to pay out in its first years.",
+    "see": ["repatriating-profits-from-china", "china-tax-for-small-companies"]
+  },
+  {
+    "id": "tax-recordal",
+    "term": "税务备案",
+    "pinyin": "Shuìwù bèi'àn",
+    "english": "Tax recordal for outbound payments",
+    "cat": "Money",
+    "def": "The filing that must be completed before a bank remits certain payments abroad — service fees, royalties, interest and similar current-account items above USD 50,000. The bank checks the recordal, the contract and the invoice before releasing the money.",
+    "see": ["capital-account-and-foreign-exchange", "repatriating-profits-from-china"]
+  },
+  {
+    "id": "equity-transfer",
+    "term": "股权转让",
+    "pinyin": "Gǔquán zhuǎnràng",
+    "english": "Equity transfer",
+    "cat": "Exit",
+    "def": "The sale of shares to an existing or new shareholder. It requires written notice to the other shareholders, who have 30 days to exercise a right of first refusal, plus tax on the gain and a registration change within 30 days.",
+    "see": ["changing-shareholders-and-exiting", "hong-kong-holding-company"]
+  },
+  {
+    "id": "annual-audit",
+    "term": "年度审计",
+    "pinyin": "Niándù shěnjì",
+    "english": "Annual audit",
+    "cat": "Compliance",
+    "def": "The audit of the annual financial statements that most foreign-invested companies must complete and file. Dividends, capital reductions and many bank transactions depend on having the audit report in hand.",
+    "see": ["annual-compliance-calendar", "repatriating-profits-from-china"]
+  },
+  {
+    "id": "trademark",
+    "term": "商标",
+    "pinyin": "Shāngbiāo",
+    "english": "Trademark",
+    "cat": "Access",
+    "def": "A registered mark that gives exclusive rights in specified classes. China is first-to-file: the registration, not the use, creates the right, so a brand launched without filing can be lost to whoever files first.",
+    "see": ["trademark-and-ip-in-china", "company-name-and-business-scope"]
+  },
+  {
+    "id": "customs-declarant",
+    "term": "报关单位备案",
+    "pinyin": "Bàoguān dānwèi bèi'àn",
+    "english": "Customs declarant registration",
+    "cat": "Access",
+    "def": "The free filing that lets a company declare its own imports and exports through the single-window system. Without it, goods must be cleared through an agent, and the company cannot recover import VAT as a general taxpayer.",
+    "see": ["importing-goods-into-china"]
   }
 ]
