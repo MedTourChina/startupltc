@@ -267,7 +267,7 @@ def home(cities: list[dict], guides: list[dict], sectors: list[dict]) -> str:
 
     body = hero + why + flow_block + layer_block + sectors_block + cities_block + tools + guides_block + pledge
     return L.page(
-        title=C.SITE_NAME,
+        title="Starting a business in China as a foreigner",
         description=C.SITE_DESCRIPTION,
         path="/",
         body=body,
