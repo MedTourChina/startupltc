@@ -1,0 +1,112 @@
+[
+  {
+    "cat": "Deciding",
+    "q": "Do I need a Chinese company to sell to Chinese customers?",
+    "a": "Not always. You can export to China through a local importer, sell cross-border through a platform, or license a product to a Chinese company without ever registering an entity. You need an entity when you must issue a Chinese fapiao, employ staff locally, hold a sector licence, receive RMB from domestic customers, or open a local bank account. Start with the job the entity has to do — see [Do you need a China entity at all?](/guides/do-you-need-a-china-entity/)."
+  },
+  {
+    "cat": "Deciding",
+    "q": "Can I own and run the company from abroad?",
+    "a": "You can own a Chinese company without living in China, but running it remotely is harder than it looks. The legal representative signs documents and is personally accountable; the bank requires a face-to-face account opening; tax and labour filings need a local representative. Many absentee owners appoint a Chinese legal representative and a local finance manager, which works until the two disagree."
+  },
+  {
+    "cat": "Deciding",
+    "q": "Can I just use a Chinese friend's company to invoice?",
+    "a": "It is common, cheap, and one of the most expensive mistakes available. You have no ownership, no control of the bank account, no claim on the revenue, and you are relying on the friend's tax compliance. If the relationship ends, the customers, the contracts and the money stay with the company. Nominee arrangements exist but need a written trust and a lawyer, not a favour."
+  },
+  {
+    "cat": "Deciding",
+    "q": "What can a foreigner not do in China?",
+    "a": "Foreign nationals cannot register as individual businesses (个体户) or sole proprietorships, so the smallest legal vehicle is a company. Beyond that, the negative list prohibits or restricts foreign investment in a specific set of sectors — news and publishing, film production, compulsory education, and parts of telecoms and finance among them. The licence regime can be stricter than the ownership rules."
+  },
+  {
+    "cat": "Structure & ownership",
+    "q": "WFOE, joint venture or representative office — which one?",
+    "a": "A WFOE if you want to trade, invoice and control the company; a joint venture if the sector requires a Chinese partner or you need their licences and relationships; a representative office only if you need a liaison presence and will never invoice from China. Most founders who think they need a JV actually need a WFOE and a local distributor — [the comparison](/guides/wfoe-jv-roe-comparison/) sets out the trade-offs."
+  },
+  {
+    "cat": "Structure & ownership",
+    "q": "Can I own 100% of a Chinese company?",
+    "a": "Yes, in any sector not on the negative list. Since the 2024 edition of the list, manufacturing is fully open and most service sectors allow wholly foreign-owned companies. The constraint is usually the sector licence, not the ownership rule: a WFOE can be 100% foreign-owned and still be unable to operate a clinic, a school or a payment business without a licence it cannot get."
+  },
+  {
+    "cat": "Structure & ownership",
+    "q": "Do I need a Hong Kong holding company?",
+    "a": "No, not as a legal requirement. A Hong Kong company can hold the mainland WFOE, which helps with future offshore financing, currency and a possible exit, and it may access a better treaty rate on dividends. It also adds an audit, a registered office, annual filings and a layer of ownership that Chinese banks will ask about. A holding company with no substance is decoration, not structure."
+  },
+  {
+    "cat": "Structure & ownership",
+    "q": "How much registered capital should I put on the licence?",
+    "a": "Enough to fund the business through its first year and to satisfy any sector licence minimum, and no more. Registered capital is a promise that must be paid within five years under the 2023 Company Law, and shareholders are liable up to it. A large number looks credible until the deadline arrives; a number too small can fail a licence threshold or a bank review."
+  },
+  {
+    "cat": "Structure & ownership",
+    "q": "Can I add a Chinese shareholder later?",
+    "a": "Yes, by transferring equity, which requires a shareholder resolution, an amended articles of association, tax clearance on the transfer and a registration change. It is easier than starting over, but the valuation and the tax on the transfer are negotiated at that point, when you have less leverage than you did at incorporation."
+  },
+  {
+    "cat": "Money, tax & banking",
+    "q": "What does it actually cost to set up?",
+    "a": "For a straightforward service WFOE in a tier-one city, budget roughly ¥20,000–¥60,000 for the first year including the registered address, agency fees, seals, bank account and bookkeeping. Add the sector licence, a fit-out, an EIA or a factory lease and the number moves by an order of magnitude. The [setup-cost tool](/tools/setup-cost/) breaks the lines out."
+  },
+  {
+    "cat": "Money, tax & banking",
+    "q": "How does money get into the company?",
+    "a": "Three legitimate routes: equity (registered capital into the capital account), a shareholder loan (registered with the bank and foreign-exchange authority), and revenue from customers. Each has different tax and repatriation consequences. Wiring money to the legal representative's personal account is not one of the routes, however common it is."
+  },
+  {
+    "cat": "Money, tax & banking",
+    "q": "How do I take profits out of China?",
+    "a": "Dividends are paid after corporate income tax and after making up losses and statutory reserves, with 10% withholding tax unless a treaty reduces it. Service fees and royalties can be paid to a foreign affiliate if they are genuine, documented and priced at arm's length. Salary is the simplest route and the most heavily taxed. The [repatriation tool](/tools/repatriation/) models the dividend case."
+  },
+  {
+    "cat": "Money, tax & banking",
+    "q": "Do I need a Chinese bank account?",
+    "a": "Yes, for any operating company. Salaries, taxes, social insurance, rent and customer receipts all run through the corporate account, and the fapiao system is linked to it. Opening the account is a face-to-face process that can take longer than the registration itself — see [Opening a corporate bank account](/guides/opening-a-corporate-bank-account/)."
+  },
+  {
+    "cat": "Money, tax & banking",
+    "q": "What taxes will the company pay?",
+    "a": "VAT on sales (13%, 9% or 6% depending on the activity, with a 1% rate for small-scale taxpayers through 2027), corporate income tax at 25% — or an effective 5% for qualifying small low-profit companies — plus stamp duty, surcharges and payroll taxes. The rates are national; the enforcement and the local incentives are not."
+  },
+  {
+    "cat": "People & permits",
+    "q": "Can I employ myself as the foreign founder?",
+    "a": "Yes, and in most cases you should. The company signs an employment contract with you, pays a salary, withholds individual income tax and social insurance, and sponsors your work permit. A founder who takes no salary creates a work-permit renewal problem and a thin tax record that banks and licence reviewers notice."
+  },
+  {
+    "cat": "People & permits",
+    "q": "Do foreign employees need a work permit?",
+    "a": "Yes. Every foreign employee needs a work permit tied to that employer, graded A, B or C. Category B, which covers most founders and professionals, requires a bachelor's degree or higher, two years of relevant experience and a salary above the local threshold. The employer must be registered, taxed and able to show the payroll."
+  },
+  {
+    "cat": "People & permits",
+    "q": "What does an employee really cost?",
+    "a": "Take the gross salary and add employer social insurance and housing fund contributions, which commonly run 25–40% of salary depending on the city and the contribution base, plus severance accrual and recruitment cost. A ¥20,000 monthly salary is closer to ¥27,000–¥28,000 in cost before any bonus."
+  },
+  {
+    "cat": "People & permits",
+    "q": "Can I fire someone?",
+    "a": "Yes, but not at will. China requires a statutory ground — performance after documented improvement, misconduct, redundancy with consultation — and severance of one month's salary per year of service, or two months for an unlawful dismissal. Probation dismissals still need a documented reason. This is the clause founders most often get wrong in the contract."
+  },
+  {
+    "cat": "Compliance & exit",
+    "q": "What has to be filed every year?",
+    "a": "The market-regulator annual report between 1 January and 30 June; the corporate income tax settlement by 31 May; the foreign-exchange annual declaration for companies with foreign capital; monthly or quarterly VAT and payroll filings; and an annual audit for most foreign-invested companies. The [compliance calendar](/guides/annual-compliance-calendar/) lists them by month."
+  },
+  {
+    "cat": "Compliance & exit",
+    "q": "What happens if I ignore the filings?",
+    "a": "The company goes on the abnormal-operations list, which blocks bank account changes, bidding and sometimes invoicing. Fines accrue, the legal representative's name is attached to the record, and closing the company later becomes slower and more expensive. The registrar's system is connected to the bank's, so it is not a private matter."
+  },
+  {
+    "cat": "Compliance & exit",
+    "q": "How do I close a Chinese company?",
+    "a": "Liquidation first — creditors, employees, tax, assets — then tax clearance, then deregistration of the business licence, then the bank accounts and seals. A clean company with no disputes takes six to twelve months; a company with unpaid tax or a departed shareholder takes longer. [Closing a company](/guides/closing-a-company-in-china/) walks through the sequence."
+  },
+  {
+    "cat": "Compliance & exit",
+    "q": "Can I just abandon the company and leave?",
+    "a": "The company does not disappear. It keeps accruing filings and penalties, the legal representative can be restricted from leaving China or from serving as a legal representative elsewhere, and the foreign shareholder's record is affected. Abandonment is the most expensive way to close a company."
+  }
+]

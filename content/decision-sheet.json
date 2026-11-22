@@ -1,0 +1,83 @@
+{
+  "intro": "Twenty-five checks, in the order they can kill the project. Work top to bottom: a failed check in Layer 1 is not fixed by a better structure in Layer 3. The fifteen stop conditions at the end are not risks to manage; they are reasons to stop and change the plan.",
+  "note": "This is a reading aid, not a filing. Nothing here is saved to a server — the boxes use your browser's own storage and can be cleared at any time.",
+  "layers": [
+    {
+      "n": 1,
+      "slug": "fit",
+      "title": "Fit",
+      "checks": [
+        {"id": "fit-1", "text": "You can name, in one sentence, the job the Chinese entity will do that cannot be done from abroad.", "note": "Invoice locally, employ staff, hold a licence, receive RMB, hold a lease. If the answer is 'be present', a distributor or a service agreement is cheaper."},
+        {"id": "fit-2", "text": "Your first three customers are identifiable by name, not by segment.", "note": "The company registration is the easy part. A named pipeline is what tells you the entity is worth its annual cost."},
+        {"id": "fit-3", "text": "You know which of your customers require a fapiao, and at what rate.", "note": "A customer that needs a 13% fapiao cannot buy from a small-scale taxpayer at 1%. This single fact changes the vehicle and the VAT status."},
+        {"id": "fit-4", "text": "You have a first-year budget that survives the company earning nothing for six months.", "note": "Registration, address, accounting, payroll, your own salary and buffer. Founders routinely budget the setup and not the first year."},
+        {"id": "fit-5", "text": "You have visited, or spent at least a month in, the city you intend to register in.", "note": "Registration practice, address supply and banking are local. A city that looks cheap from abroad often is not, once the address and the adviser are priced in."}
+      ]
+    },
+    {
+      "n": 2,
+      "slug": "access",
+      "title": "Access",
+      "checks": [
+        {"id": "acc-1", "text": "You have looked up your exact activity on the current negative list, not a summary of it.", "note": "The 2024 edition has 29 national items. The wording of each item matters more than the headline number."},
+        {"id": "acc-2", "text": "You know whether your activity needs a sector licence, and which authority issues it.", "note": "Education, healthcare, travel, food, telecoms and finance each have their own regulator. The business licence does not imply the sector licence."},
+        {"id": "acc-3", "text": "You have confirmed that foreign ownership is permitted for that licensed activity in your city.", "note": "Some licences are open nationally, some are pilot-only, and pilots change by city and by year. Ask the local authority, in writing."},
+        {"id": "acc-4", "text": "Your registered address is zoned and documented for the activity you will actually carry out.", "note": "Restaurants, clinics, schools and factories are address-sensitive. A cheap office that cannot be licensed for the activity is the most common wasted year."},
+        {"id": "acc-5", "text": "You can describe your business without using a word that triggers a licence you do not have.", "note": "'Investment advice', 'legal services', 'medical', 'school', 'news', 'payment' — the scope and the marketing copy both count."}
+      ]
+    },
+    {
+      "n": 3,
+      "slug": "structure",
+      "title": "Structure",
+      "checks": [
+        {"id": "str-1", "text": "You have compared WFOE, JV and representative office against what you need the entity to do.", "note": "Not against which sounds most impressive. A JV without a partner who brings a licence or a customer is a WFOE with a hostage."},
+        {"id": "str-2", "text": "You know who the legal representative will be, and what that person is personally exposed to.", "note": "The legal representative signs for the company and carries compliance risk. A nominee legal representative is a dispute waiting to happen."},
+        {"id": "str-3", "text": "You have decided whether a Hong Kong or offshore holding company is worth its annual cost.", "note": "It helps with future financing, currency and exit; it adds audit and filing obligations and a layer every bank will ask about."},
+        {"id": "str-4", "text": "You have read the articles of association, especially board composition, voting and share transfer.", "note": "The registry's template articles are not neutral. They decide what happens when shareholders disagree, which is exactly when you cannot renegotiate."},
+        {"id": "str-5", "text": "You know where the company seal, the bank token and the tax login will physically be kept, and who can use them.", "note": "Control of the seal and the bank token is control of the company. This is the first thing a Chinese investor will ask about."}
+      ]
+    },
+    {
+      "n": 4,
+      "slug": "money",
+      "title": "Money",
+      "checks": [
+        {"id": "mon-1", "text": "Your registered capital is enough for the licence minimum and the first year, and no more.", "note": "It is a five-year promise and a liability cap. A large number is not credibility; it is a deadline."},
+        {"id": "mon-2", "text": "You know how the capital will actually arrive: which bank, which account, which documents.", "note": "Capital goes into the capital account with a foreign-exchange registration. Wiring it to a personal account creates a problem you cannot fix by bookkeeping."},
+        {"id": "mon-3", "text": "You have chosen small-scale or general VAT status deliberately, and your customers accept it.", "note": "General taxpayer status lets you issue 6% or 13% fapiao and reclaim input VAT. Small-scale is simpler and cheaper until a large customer refuses the invoice."},
+        {"id": "mon-4", "text": "You can explain how profit leaves China, and what it costs at each step.", "note": "CIT, statutory reserves, 10% withholding (or treaty rate), and the bank's documentation. Model it before the first profitable year, not after."},
+        {"id": "mon-5", "text": "Your accounting arrangement is a named person or firm with a monthly deliverable, not a favour.", "note": "Bookkeeping, VAT filing, payroll and the annual audit. The cheapest bookkeeper who files nothing is the most expensive line on the sheet."}
+      ]
+    },
+    {
+      "n": 5,
+      "slug": "continuity",
+      "title": "Continuity",
+      "checks": [
+        {"id": "con-1", "text": "You have a work permit plan for yourself and for any foreign hire.", "note": "Degree, two years of experience, salary above the local threshold, and an employer with a tax record. The permit is tied to the employer, not to you."},
+        {"id": "con-2", "text": "You know the all-in cost of your first employee, including social insurance and housing fund.", "note": "Employer contributions commonly add 25–40% to gross salary. A hiring plan built on gross salary is wrong by a third."},
+        {"id": "con-3", "text": "You have a written employment contract and a severance expectation for every hire.", "note": "China is not at-will. Unlawful dismissal costs two months per year of service; a documented process is cheaper than a tribunal."},
+        {"id": "con-4", "text": "You know every recurring filing and the month it falls due.", "note": "Annual report by 30 June, CIT settlement by 31 May, monthly VAT and payroll. Missing one puts the company on a list that freezes the bank account."},
+        {"id": "con-5", "text": "You have an exit plan, including what closure costs and how long it takes.", "note": "Six to twelve months for a clean company. Abandonment is not an exit; the entity, the penalties and the legal representative's record survive."}
+      ]
+    }
+  ],
+  "stops": [
+    {"id": "stop-1", "text": "The activity is prohibited to foreign investment and your plan is a nominee shareholder or a VIE."},
+    {"id": "stop-2", "text": "The licence you need is not available to a foreign-owned entity in your city, and no permitted structure exists."},
+    {"id": "stop-3", "text": "You cannot name a single customer who will pay the Chinese entity."},
+    {"id": "stop-4", "text": "Your only route to market is invoicing through a Chinese friend's company."},
+    {"id": "stop-5", "text": "You are about to sign a lease before the environmental, fire or sector approval that the site depends on."},
+    {"id": "stop-6", "text": "The registered address is a virtual address that the bank has already refused, or that no landlord will document."},
+    {"id": "stop-7", "text": "The business depends on bringing client money through the company without a payment licence."},
+    {"id": "stop-8", "text": "The registered capital you need for the licence is money you do not have and cannot raise within five years."},
+    {"id": "stop-9", "text": "Your Chinese partner's contribution is 'relationships' with no contract, no valuation and no exit mechanism."},
+    {"id": "stop-10", "text": "You plan to be the legal representative but will not live in China or employ a local manager with authority."},
+    {"id": "stop-11", "text": "Your product handles personal data at a scale you have not mapped, and you have no data-compliance plan."},
+    {"id": "stop-12", "text": "The only person who can operate the business is a foreign national who does not qualify for a work permit."},
+    {"id": "stop-13", "text": "You are relying on a verbal assurance from an official that a licence 'will be fine'."},
+    {"id": "stop-14", "text": "Your budget covers registration but not the first twelve months of losses."},
+    {"id": "stop-15", "text": "You have not read the articles of association or the joint-venture contract you are about to sign."}
+  ]
+}

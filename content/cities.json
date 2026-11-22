@@ -1,0 +1,312 @@
+[
+  {
+    "slug": "shanghai",
+    "name": "Shanghai",
+    "name_zh": "上海",
+    "region": "Yangtze River Delta",
+    "rank": 1,
+    "tagline": "The deepest bench of advisers, the tightest address market.",
+    "best_for": "Professional services, consumer brands, finance-adjacent software and any founder who needs a lawyer, an accountant and a bank relationship in the same week.",
+    "address_band": "¥10k–35k / year",
+    "setup_time": "3–6 weeks",
+    "cost_note": "Address is the volatile line. A suburban virtual address is cheap and can block a bank account; a serviced office in Jing'an or Huangpu costs more and opens doors.",
+    "intro": [
+      "Shanghai is where most foreign founders land first, and the market reflects it: the widest choice of bilingual advisers, the most competitive serviced offices, and the most practiced bank branches for foreign-invested companies. It is also the most expensive place in the country to be a small company.",
+      "The city's districts behave like separate registration markets. Pudong and the free-trade zone suit trading, logistics and anything that wants customs and foreign-exchange experience under one roof. Jing'an, Huangpu and Xuhui suit consumer, design and professional services, at a price."
+    ],
+    "practice": "Registration runs through the municipal online portal and then a district window. The foreign-investment information report is filed through the same system after establishment. Pudong's free-trade zone still has the most experienced staff for cross-border structures, but the district you register in determines where you file, where inspections originate and which address pool you can use.",
+    "banking": "Corporate account opening is a face-to-face appointment with the branch, not the relationship manager. Expect due diligence on the ultimate beneficial owner, the source of capital and the business's actual customers. Branches in Lujiazui and Jing'an see foreign founders daily; a suburban branch may not, and a slow branch can add a month.",
+    "work_permit": "Shanghai processes work permits through the municipal foreign-expert service window and is generally efficient for Category A and B applicants. The company must have a real office, a tax registration and — for renewals — payroll and social-insurance records. Founders who pay themselves nothing create a renewal problem.",
+    "districts": [
+      {"name": "Pudong", "zh": "浦东", "note": "Lujiazui for finance and cross-border; the free-trade zone for customs, leasing and foreign-exchange pilot schemes."},
+      {"name": "Jing'an", "zh": "静安", "note": "Professional services, consumer brands and the densest cluster of bilingual advisers."},
+      {"name": "Xuhui", "zh": "徐汇", "note": "Design, media-adjacent services and software; strong serviced-office supply near the French Concession."}
+    ],
+    "risks": [
+      "A virtual address that passes registration but fails bank onboarding, leaving the company alive and unable to trade.",
+      "Paying a bookkeeper who files nothing, then discovering the annual report deadline has passed.",
+      "Assuming a Shanghai licence lets you operate a branch in another city without registration."
+    ],
+    "foreign_note": "Shanghai is the easiest city in China to be a foreign founder and the easiest to overspend in. The adviser market is good enough that the honest ones will tell you not to register yet — listen to that.",
+    "sectors": ["consulting", "finance", "software", "design", "ecommerce"]
+  },
+  {
+    "slug": "beijing",
+    "name": "Beijing",
+    "name_zh": "北京",
+    "region": "Jing-Jin-Ji",
+    "rank": 2,
+    "tagline": "The regulator is here, which is both the advantage and the cost.",
+    "best_for": "Education, media-adjacent services, policy-facing research, government-relations consulting and anything whose customer is an institution.",
+    "address_band": "¥12k–40k / year",
+    "setup_time": "4–8 weeks",
+    "cost_note": "Grade-A office towers dominate the address market and landlords often require a lease in the company name before registration. Budget for three months' rent plus deposit.",
+    "intro": [
+      "Beijing is a company town, and the company is the state. The advantage is proximity: ministries, industry associations, research institutes and the headquarters of most state-owned customers are here. The cost is that everything is slower, more document-heavy and more sensitive to the sector you name.",
+      "Foreign founders in Beijing are usually selling to institutions or working in education, culture and research. Consumer businesses exist, but the city's regulatory attention is concentrated on content, data and anything that could be read as publishing."
+    ],
+    "practice": "Registration is through the municipal e-government portal, with district-level review. Chaoyang is the default for foreign companies; Haidian for technology and universities; Shunyi for aviation, logistics and international schools. Address verification is strict: the landlord's property certificate and a lease stamped for the registration are usually required.",
+    "banking": "Bank onboarding in Beijing is conservative. Branches ask for the lease, the articles, the foreign investor's incorporation documents (notarised and often legalised), and a clear explanation of the first expected receipts. Accounts can take four to eight weeks, and a newly registered company with no tax record may be asked to wait.",
+    "work_permit": "Beijing applies the national points system strictly. Category B requires a bachelor's degree plus two years of relevant experience; the salary threshold is higher than in smaller cities. The permit is tied to the employer, so a founder must be employed by their own company — with a contract and a payroll — not merely own it.",
+    "districts": [
+      {"name": "Chaoyang", "zh": "朝阳", "note": "CBD, embassies, most foreign companies and the deepest supply of bilingual service firms."},
+      {"name": "Haidian", "zh": "海淀", "note": "Universities, research institutes and technology companies; strong for AI and education-adjacent work."},
+      {"name": "Shunyi", "zh": "顺义", "note": "Airport economy, international schools and logistics; cheaper space, longer commute."}
+    ],
+    "risks": [
+      "Naming a restricted activity — publishing, news, education for minors — in the business scope.",
+      "Underestimating the document trail: notarisation and legalisation of the foreign parent's papers can take weeks.",
+      "Signing a lease in a building whose zoning does not permit your registered activity."
+    ],
+    "foreign_note": "Beijing rewards patience and preparation and punishes improvisation. If your business depends on a licence, start the conversation with the regulator before you look at offices.",
+    "sectors": ["education", "media", "consulting", "software", "healthcare"]
+  },
+  {
+    "slug": "shenzhen",
+    "name": "Shenzhen",
+    "name_zh": "深圳",
+    "region": "Greater Bay Area",
+    "rank": 3,
+    "tagline": "The fastest registration in the country, and the shortest path from prototype to factory.",
+    "best_for": "Hardware, software,跨境 e-commerce, supply-chain technology and any founder who wants to be within an hour of the factory that makes their product.",
+    "address_band": "¥6k–22k / year",
+    "setup_time": "2–5 weeks",
+    "cost_note": "Address supply is abundant and cheap in Bao'an and Longgang; Nanshan and Futian cost more but signal credibility to investors and banks.",
+    "intro": [
+      "Shenzhen is the city where the paperwork moves. Registration can complete in days, the district service centres are used to foreign applicants, and the supplier ecosystem for electronics, hardware and e-commerce is unmatched. It is also the most competitive market for engineers and the least forgiving on intellectual property.",
+      "The city's foreign-founder community is smaller than Shanghai's but more product-focused. Qianhai, the free-trade zone in the west, is the usual home for structures that need cross-border capital or Hong Kong proximity."
+    ],
+    "practice": "Registration is online through the municipal portal with district review, and most districts offer a one-stop window for the business licence, seals and tax registration. Qianhai has its own service centre and a foreign-investment filing process that is familiar with Hong Kong and offshore parents.",
+    "banking": "Shenzhen banks are used to technology companies and move faster than Beijing or Shanghai, but they are also alert to cross-border e-commerce flows. Expect questions about payment channels, marketplace settlements and the relationship between the Chinese entity and the offshore seller.",
+    "work_permit": "Shenzhen issues work permits through the municipal science and technology bureau and is comparatively fast for Category B. The city also has a well-used pathway for Hong Kong and Macau residents under the Greater Bay Area rules, which do not apply to other foreign nationals.",
+    "districts": [
+      {"name": "Nanshan", "zh": "南山", "note": "Technology headquarters, hardware startups and the most active venture community."},
+      {"name": "Futian", "zh": "福田", "note": "CBD, finance and professional services; the most expensive addresses and the best transport."},
+      {"name": "Bao'an", "zh": "宝安", "note": "Manufacturing, logistics and cheap office space near the airport and the western ports."}
+    ],
+    "risks": [
+      "Hiring engineers on verbal offers: Shenzhen's labour tribunals enforce written contracts and severance strictly.",
+      "Treating a supplier's sample as a design handover without an NDA and an IP assignment.",
+      "Using a Qianhai entity for domestic sales without checking that the licence covers them."
+    ],
+    "foreign_note": "Shenzhen is the best city in China to build a physical product and the worst to be vague about ownership. Get the IP assignment in writing before the tooling is cut.",
+    "sectors": ["manufacturing", "software", "ecommerce", "trading-logistics", "design"]
+  },
+  {
+    "slug": "guangzhou",
+    "name": "Guangzhou",
+    "name_zh": "广州",
+    "region": "Greater Bay Area",
+    "rank": 4,
+    "tagline": "The trading city: Canton Fair, wholesale markets and a lower cost base than Shenzhen.",
+    "best_for": "Import/export, wholesale, food and beverage, consumer goods and trading companies that need a real port and a real market.",
+    "address_band": "¥6k–20k / year",
+    "setup_time": "3–6 weeks",
+    "cost_note": "Tianhe is the premium address; Haizhu and Panyu are cheaper and popular with trading companies and small brands.",
+    "intro": [
+      "Guangzhou has been China's trading city for two centuries, and the business culture still reflects it: pragmatic, price-sensitive, relationship-driven and less impressed by a foreign founder's pitch deck than by a confirmed order. The Canton Fair brings the world's buyers twice a year, and the wholesale markets around Zhanxi and Shahe supply much of it.",
+      "For a small foreign company, Guangzhou offers a lower cost base than Shenzhen or Shanghai and a dense network of freight forwarders, customs brokers and trading agents. The trade-off is a smaller pool of English-speaking technical talent."
+    ],
+    "practice": "Registration is through the municipal portal with district review. Tianhe and Haizhu are the default for foreign trading and service companies; Nansha, the southern district, offers incentives and a free-trade-zone port but is a long commute from the city centre.",
+    "banking": "Banks in Guangzhou are experienced with trade documentation and foreign-exchange settlement. A trading company should expect to explain its suppliers, its customers and its expected remittance pattern, and to provide contracts for the first transactions.",
+    "work_permit": "Work permits are processed by the municipal science and technology bureau. Guangzhou is generally practical for Category B applicants, but the salary threshold and the requirement for a degree plus two years' experience still apply, and the company needs a tax record for renewals.",
+    "districts": [
+      {"name": "Tianhe", "zh": "天河", "note": "CBD, professional services and the most foreign-facing offices."},
+      {"name": "Haizhu", "zh": "海珠", "note": "Canton Fair complex, trading companies and a growing design and e-commerce scene."},
+      {"name": "Nansha", "zh": "南沙", "note": "Free-trade-zone port, logistics and incentives; cheap space, thin amenities."}
+    ],
+    "risks": [
+      "Importing goods on a tourist visa and invoicing through a friend's company: the customs record and the tax record will not match.",
+      "Assuming a Hong Kong company can hold the mainland import licence without a mainland entity.",
+      "Underpricing freight and customs brokerage, which are the real cost lines in a trading business."
+    ],
+    "foreign_note": "Guangzhou is a city where the deal is done over dinner and the paperwork is done afterwards. That works only if the paperwork still gets done.",
+    "sectors": ["trading-logistics", "ecommerce", "food-beverage", "consulting", "manufacturing"]
+  },
+  {
+    "slug": "hangzhou",
+    "name": "Hangzhou",
+    "name_zh": "杭州",
+    "region": "Yangtze River Delta",
+    "rank": 5,
+    "tagline": "E-commerce, live streaming and a government that courts founders.",
+    "best_for": "E-commerce, consumer brands, SaaS, live commerce and supply-chain software; anything that sells through Alibaba's ecosystem.",
+    "address_band": "¥5k–16k / year",
+    "setup_time": "3–6 weeks",
+    "cost_note": "Yuhang and Binjiang have the strongest startup supply; Xihu is scenic and expensive; the cost base is roughly 70% of Shanghai's.",
+    "intro": [
+      "Hangzhou built its reputation on Alibaba and never stopped. The city has the densest cluster of e-commerce operators, live-streaming agencies, consumer brands and the software vendors that serve them, and local government has been unusually willing to subsidise offices, hiring and intellectual property for companies it wants.",
+      "It is also a more livable city than Shanghai or Shenzhen, which matters when a founder is deciding where to spend three years. The foreign community is smaller, and English-language professional services are thinner outside the largest firms."
+    ],
+    "practice": "Registration is through the Zhejiang provincial portal, with district review. Yuhang (未来科技城) and Binjiang are the startup districts; Xihu is the old tech cluster around the universities. Subsidy programmes are real but usually require local tax registration, local hiring and a multi-year commitment.",
+    "banking": "Hangzhou banks are comfortable with e-commerce and platform settlements, including Alipay flows. Opening an account is still a face-to-face process, and a company whose revenue arrives through a marketplace may be asked for platform statements and contracts.",
+    "work_permit": "Work permits are processed by the municipal science and technology bureau. Hangzhou is generally welcoming to foreign founders, but the company needs a genuine office and a tax record, and the permit is tied to the employer.",
+    "districts": [
+      {"name": "Binjiang", "zh": "滨江", "note": "The technology cluster: software, e-commerce infrastructure and listed companies."},
+      {"name": "Yuhang", "zh": "余杭", "note": "Future Sci-Tech City, incubators and the strongest startup subsidy menu."},
+      {"name": "Xihu", "zh": "西湖", "note": "Universities, design and tourism; scenic, central and expensive."}
+    ],
+    "risks": [
+      "Building on a platform's API without a written data-processing agreement.",
+      "Taking a subsidy that requires local headcount and then hiring remotely.",
+      "Assuming a live-commerce licence covers ordinary e-commerce, or the reverse."
+    ],
+    "foreign_note": "Hangzhou is generous to companies that commit and impatient with tests. If you are still deciding, visit for a month before you register.",
+    "sectors": ["ecommerce", "software", "design", "media", "consulting"]
+  },
+  {
+    "slug": "chengdu",
+    "name": "Chengdu",
+    "name_zh": "成都",
+    "region": "Western China",
+    "rank": 6,
+    "tagline": "The lowest-cost large city with a real startup scene.",
+    "best_for": "Software, games, design, education, tourism and consumer brands targeting western China; founders optimizing for quality of life and runway.",
+    "address_band": "¥4k–12k / year",
+    "setup_time": "3–6 weeks",
+    "cost_note": "Office rents are a fraction of coastal cities; salaries are lower; the savings are real, but the pool of English-speaking senior staff is smaller.",
+    "intro": [
+      "Chengdu has become the default answer for founders who want a Chinese company without Shanghai costs. The city has a genuine software and gaming industry, a large university population, and a local government that has invested heavily in attracting talent and startups.",
+      "The catch is market access. Chengdu is a good place to build and a harder place to sell nationally from, and the foreign professional-services ecosystem is thinner. Founders who need a bank, a lawyer and a Big Four accountant in the same afternoon will miss Shanghai."
+    ],
+    "practice": "Registration is through the Sichuan provincial portal with district review. Chengdu High-tech Zone (高新区) and Tianfu New Area are the startup districts and offer the most generous incentives; Jinjiang and Wuhou are central and convenient for consumer businesses.",
+    "banking": "Account opening is slower than in Shenzhen and the branch may be less familiar with foreign-owned companies. Prepare the full document set, a clear business explanation and a Chinese-speaking staff member to attend the appointment.",
+    "work_permit": "Work permits are processed by the municipal science and technology bureau. Chengdu is generally welcoming, but the salary threshold is lower than Beijing's and the permit still depends on a genuine employment relationship and a company tax record.",
+    "districts": [
+      {"name": "High-tech Zone", "zh": "高新区", "note": "Software, games and incubators; the strongest startup infrastructure in western China."},
+      {"name": "Tianfu New Area", "zh": "天府新区", "note": "New-build offices, incentives and space; long commutes and thin amenities."},
+      {"name": "Jinjiang", "zh": "锦江", "note": "Central, consumer-facing, tourism and retail; the most walkable district."}
+    ],
+    "risks": [
+      "Assuming a Chengdu entity can serve customers nationwide without local registrations or tax filings.",
+      "Hiring senior staff who will not relocate, then managing a remote team across time zones.",
+      "Taking a subsidy whose conditions — headcount, local IP, tax residency — you cannot meet."
+    ],
+    "foreign_note": "Chengdu is a good place to be a small company and a difficult place to be a foreign company with a compliance problem. Local counsel matters more here, not less.",
+    "sectors": ["software", "design", "education", "tourism", "food-beverage"]
+  },
+  {
+    "slug": "suzhou",
+    "name": "Suzhou",
+    "name_zh": "苏州",
+    "region": "Yangtze River Delta",
+    "rank": 7,
+    "tagline": "Manufacturing depth next door to Shanghai, at half the cost.",
+    "best_for": "Manufacturing, hardware, biotech, precision engineering and any founder whose factory is in the Yangtze River Delta.",
+    "address_band": "¥5k–15k / year",
+    "setup_time": "3–6 weeks",
+    "cost_note": "Industrial park space is plentiful; the SIP has premium serviced offices; rents are significantly below Shanghai with a 30-minute train link.",
+    "intro": [
+      "Suzhou is the manufacturing heart of the Yangtze River Delta. The Suzhou Industrial Park (SIP) is a joint venture with Singapore and remains the best-run industrial park in the country, with one-stop registration, customs and environmental services, and a large base of foreign-invested factories.",
+      "For a hardware founder, the appeal is proximity: component suppliers, tooling shops, contract manufacturers and testing labs within an hour, plus Shanghai's airport and advisers within two. For a software or consumer founder, the city is quieter and the talent pool narrower."
+    ],
+    "practice": "Registration is through the Jiangsu provincial portal, with SIP having its own service centre and streamlined process for foreign investment. The environmental impact assessment is the long pole for any manufacturing project, and the park's own review is often stricter than the district's.",
+    "banking": "Suzhou banks are experienced with manufacturing clients, equipment finance and cross-border capital. A factory project will need to show the EIA, the lease and the capital plan before an account is opened for construction payments.",
+    "work_permit": "Work permits are processed by the municipal science and technology bureau, and the SIP has a dedicated foreign-talent window. Manufacturing companies often need permits for technicians as well as managers, and the Category C route is narrower than founders expect.",
+    "districts": [
+      {"name": "Suzhou Industrial Park", "zh": "苏州工业园区", "note": "Best-in-class industrial infrastructure, one-stop services and a large foreign community."},
+      {"name": "Kunshan", "zh": "昆山", "note": "Electronics and precision manufacturing; close to Shanghai, cheaper and more fragmented."},
+      {"name": "Gusu", "zh": "姑苏", "note": "The historic centre: tourism, retail and small offices; limited industrial space."}
+    ],
+    "risks": [
+      "Signing a factory lease before the EIA is approved, then discovering the site cannot be permitted.",
+      "Assuming the SIP's fast registration extends to environmental or fire approvals — it does not.",
+      "Buying used equipment from a closing factory without clear title and customs status."
+    ],
+    "foreign_note": "Suzhou rewards founders who bring a manufacturing engineer, not just a business plan. The park's staff will help, but they will not design your process for you.",
+    "sectors": ["manufacturing", "trading-logistics", "design", "software", "healthcare"]
+  },
+  {
+    "slug": "wuhan",
+    "name": "Wuhan",
+    "name_zh": "武汉",
+    "region": "Central China",
+    "rank": 8,
+    "tagline": "Optics, biotech and a very low cost base in the middle of the country.",
+    "best_for": "Optics, photonics, biotech, software and logistics serving central China; founders who need a large engineering talent pool at low cost.",
+    "address_band": "¥3k–10k / year",
+    "setup_time": "4–8 weeks",
+    "cost_note": "One of the cheapest large cities in China; the trade-off is a smaller foreign business community and fewer direct international flights.",
+    "intro": [
+      "Wuhan is a university city with a serious industrial base. The East Lake High-tech Zone — Optics Valley — is a national centre for photonics, fibre optics and laser equipment, and the city has biotech, automotive and software clusters around it.",
+      "For a foreign founder, Wuhan offers low costs and strong technical hiring, but a thin ecosystem of bilingual advisers and international banks. It is a place to build a product or run a factory, not a place to raise a first round from foreign investors."
+    ],
+    "practice": "Registration is through the Hubei provincial portal with district review. The East Lake High-tech Zone has a dedicated service centre for technology companies and foreign investment. Address verification is strict and a virtual address is likely to fail bank onboarding.",
+    "banking": "Account opening is slower and more document-heavy than in the coastal cities. Expect the branch to ask for the lease, the articles, the parent company's documents and a detailed explanation of the business; allow four to eight weeks.",
+    "work_permit": "Work permits are processed by the municipal science and technology bureau. Wuhan is generally open to foreign talent in technology and education, but the salary threshold is lower and the review can be slow for new companies without a tax record.",
+    "districts": [
+      {"name": "East Lake High-tech Zone", "zh": "东湖高新区", "note": "Optics Valley: photonics, biotech, software and the strongest startup support."},
+      {"name": "Hankou", "zh": "汉口", "note": "Historic commercial district, finance and trading; convenient and central."},
+      {"name": "Wuchang", "zh": "武昌", "note": "Universities, education and government; large student population."}
+    ],
+    "risks": [
+      "Underestimating the distance from international suppliers and the cost of shipping samples.",
+      "Assuming a local bank can handle complex cross-border payments without a correspondent relationship.",
+      "Hiring engineers without written IP assignments, then losing the design when they leave."
+    ],
+    "foreign_note": "Wuhan is a build city, not a network city. Come with a product, a technical co-founder and a reason to be in central China.",
+    "sectors": ["manufacturing", "software", "healthcare", "education", "trading-logistics"]
+  },
+  {
+    "slug": "chongqing",
+    "name": "Chongqing",
+    "name_zh": "重庆",
+    "region": "Western China",
+    "rank": 9,
+    "tagline": "A municipality the size of a country, with the industrial base to match.",
+    "best_for": "Manufacturing, automotive, electronics, logistics along the Yangtze and consumer brands serving western China.",
+    "address_band": "¥3k–10k / year",
+    "setup_time": "4–8 weeks",
+    "cost_note": "Cheap space, cheap labour, generous industrial incentives; municipal processes are more fragmented than in coastal cities.",
+    "intro": [
+      "Chongqing is a province-sized municipality with a heavy industrial base: automobiles, electronics, motorcycles and the logistics corridor along the Yangtze. It is also one of China's fastest-growing consumer markets, with a population larger than most countries.",
+      "Foreign founders are fewer here, and the service ecosystem reflects it. Registration is possible, but the process is more locally negotiated and the quality of advice varies sharply by district. A local partner or a strong law firm is worth more here than in Shanghai."
+    ],
+    "practice": "Registration is through the municipal portal with district review. Liangjiang New Area is the main industrial and foreign-investment zone; Jiangbei and Yubei are the commercial districts. The municipality's size means district-level practice can differ substantially.",
+    "banking": "Account opening is possible but slower, and branches may have less experience with foreign-owned companies. Prepare a complete document set and expect follow-up questions about the source of funds and the business model.",
+    "work_permit": "Work permits are processed by the municipal science and technology bureau. The process is workable but slower for new companies, and the salary threshold is lower than in Beijing or Shanghai.",
+    "districts": [
+      {"name": "Liangjiang New Area", "zh": "两江新区", "note": "Industrial parks, incentives and the main foreign-investment service centre."},
+      {"name": "Jiangbei", "zh": "江北", "note": "Commercial centre, finance and retail; the most foreign-facing district."},
+      {"name": "Yubei", "zh": "渝北", "note": "Airport, logistics and electronics manufacturing; large industrial parks."}
+    ],
+    "risks": [
+      "Assuming a municipal registration is uniform: district practice varies and inspections are local.",
+      "Signing an industrial lease without confirming power capacity and environmental zoning.",
+      "Relying on a translator for a contract whose Chinese text is the operative version."
+    ],
+    "foreign_note": "Chongqing rewards local knowledge. If you do not have a trusted Chinese partner or adviser, budget for one before you sign anything.",
+    "sectors": ["manufacturing", "trading-logistics", "food-beverage", "ecommerce", "design"]
+  },
+  {
+    "slug": "xian",
+    "name": "Xi'an",
+    "name_zh": "西安",
+    "region": "Northwest China",
+    "rank": 10,
+    "tagline": "Tourism, education and a growing technology sector at the lowest cost.",
+    "best_for": "Tourism, education, cultural products, software and anything serving northwest China.",
+    "address_band": "¥3k–9k / year",
+    "setup_time": "4–8 weeks",
+    "cost_note": "The cheapest city on this list; office space and salaries are low, but so is the pool of experienced foreign-facing staff.",
+    "intro": [
+      "Xi'an is China's most visited inland city and one of its great university towns. Tourism, education and cultural products are the natural sectors for a foreign founder, with a growing software and aerospace industry around the high-tech zone.",
+      "The foreign business community is small and the English-language service ecosystem is thin. For a founder whose customers are local or whose product is cultural, the low cost and the talent pool can be compelling; for a founder selling to international clients, the distance and the time zone are real costs."
+    ],
+    "practice": "Registration is through the Shaanxi provincial portal with district review. The High-tech Zone and the Qujiang New Area are the main business districts for technology and culture respectively. Address requirements are enforced, and a cheap virtual address will not survive bank due diligence.",
+    "banking": "Account opening is slower and the branch may have limited experience with foreign investors. Bring a Chinese-speaking colleague, the full document set and a clear explanation of the business.",
+    "work_permit": "Work permits are processed by the municipal science and technology bureau. The process is workable but slower, and the local salary threshold is low enough that a founder's own salary may need to be set deliberately to satisfy the Category B criteria.",
+    "districts": [
+      {"name": "High-tech Zone", "zh": "高新区", "note": "Software, aerospace and technology companies; the strongest startup support."},
+      {"name": "Qujiang", "zh": "曲江", "note": "Culture, tourism and media-adjacent businesses; scenic and central."},
+      {"name": "Yanta", "zh": "雁塔", "note": "Universities, education and consumer businesses; large student population."}
+    ],
+    "risks": [
+      "Assuming tourism licences are the same as in coastal cities — local practice differs.",
+      "Underestimating logistics costs for anything imported.",
+      "Hiring staff on a low salary and discovering the work-permit salary threshold is not met."
+    ],
+    "foreign_note": "Xi'an is a good place to start small and a difficult place to scale a foreign-facing business. Visit for a season before you commit to a lease.",
+    "sectors": ["tourism", "education", "design", "software", "media"]
+  }
+]
