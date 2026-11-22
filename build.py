@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Build the Lifetourchina Startup static site into dist/.
 
 Zero dependencies. Run: python build.py [--serve] [--og]
@@ -73,6 +73,12 @@ def human_date(iso: str) -> str:
     return f"{d.day} {d.strftime('%B %Y')}"
 
 
+def reading_time(body: str) -> int:
+    """Rough minutes at ~200 words per minute; ignores table pipes and markup."""
+    words = [w for w in body.replace("|", " ").split() if any(c.isalnum() for c in w)]
+    return max(3, round(len(words) / 200))
+
+
 # -------------------------------------------------------------------- loaders
 
 def load_json(name: str):
@@ -92,7 +98,7 @@ def load_guides() -> list[dict]:
             "layer": int(meta.get("layer", 1)),
             "answer": meta.get("answer", ""),
             "updated": str(meta.get("updated", "2026-11-01")),
-            "read": int(meta.get("read", 8)),
+            "read": reading_time(body),
             "author": meta.get("author", C.AUTHOR_NAME),
             "reviewer": meta.get("reviewer", C.REVIEWER_NAME),
             "body": body,
@@ -119,7 +125,7 @@ def load_framework() -> list[dict]:
             "title": meta.get("title", layer["question"]),
             "description": meta.get("description", layer["summary"]),
             "answer": meta.get("answer", ""),
-            "read": int(meta.get("read", 8)),
+            "read": reading_time(body),
             "updated": str(meta.get("updated", "2026-11-19")),
             "body": body,
         })
@@ -326,7 +332,7 @@ def build() -> None:
         shutil.copy2(STATIC / "img" / "og.png", og)
 
     # ---- sitemap
-    today = "2026-11-21"
+    today = "2026-11-22"
     entries = "".join(
         f"  <url><loc>{C.SITE_URL}{path}</loc><lastmod>{today}</lastmod>"
         f"<priority>{prio}</priority></url>\n"
