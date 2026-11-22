@@ -6,7 +6,11 @@
     "english": "Wholly foreign-owned enterprise (WFOE)",
     "cat": "Structure",
     "def": "A limited liability company in China owned entirely by a foreign investor, with no Chinese shareholder. It can trade, hire, invoice and hold licences in its own name, which is why it is the default vehicle for a foreign founder.",
-    "see": ["wfoe-jv-roe-comparison", "do-you-need-a-china-entity", "hong-kong-holding-company"]
+    "see": [
+      "wfoe-jv-roe-comparison",
+      "do-you-need-a-china-entity",
+      "hong-kong-holding-company"
+    ]
   },
   {
     "id": "jv",
@@ -15,7 +19,10 @@
     "english": "Sino-foreign equity joint venture (JV)",
     "cat": "Structure",
     "def": "A company owned jointly by a foreign investor and a Chinese partner, with ownership, board seats and profit sharing set in the joint-venture contract and articles.",
-    "see": ["wfoe-jv-roe-comparison", "negative-list"]
+    "see": [
+      "wfoe-jv-roe-comparison",
+      "negative-list"
+    ]
   },
   {
     "id": "ro",
@@ -24,7 +31,10 @@
     "english": "Representative office (RO)",
     "cat": "Structure",
     "def": "A non-trading liaison office of a foreign company. It may make contacts, do market research and coordinate, but it cannot sign contracts, invoice or receive business revenue in its own name.",
-    "see": ["wfoe-jv-roe-comparison", "do-you-need-a-china-entity"]
+    "see": [
+      "wfoe-jv-roe-comparison",
+      "do-you-need-a-china-entity"
+    ]
   },
   {
     "id": "fie",
@@ -33,7 +43,10 @@
     "english": "Foreign-invested enterprise (FIE)",
     "cat": "Structure",
     "def": "The collective legal category for companies with foreign investment, governed since 2020 by the Foreign Investment Law. A WFOE and a JV are both FIEs.",
-    "see": ["negative-list", "wfoe-jv-roe-comparison"]
+    "see": [
+      "negative-list",
+      "wfoe-jv-roe-comparison"
+    ]
   },
   {
     "id": "negative-list",
@@ -42,7 +55,10 @@
     "english": "Foreign investment negative list",
     "cat": "Access",
     "def": "The national catalogue of sectors where foreign investment is prohibited or restricted. Anything not on the list is open, but a sector licence may still apply.",
-    "see": ["negative-list", "do-you-need-a-china-entity"]
+    "see": [
+      "negative-list",
+      "do-you-need-a-china-entity"
+    ]
   },
   {
     "id": "business-licence",
@@ -51,7 +67,10 @@
     "english": "Business licence",
     "cat": "Structure",
     "def": "The document that proves a company exists. It carries the company name, legal representative, registered capital, business scope and registered address, and every bank, landlord and licence application will ask for it.",
-    "see": ["registered-address-in-china", "wfoe-jv-roe-comparison"]
+    "see": [
+      "registered-address-in-china",
+      "wfoe-jv-roe-comparison"
+    ]
   },
   {
     "id": "uscc",
@@ -60,7 +79,10 @@
     "english": "Unified social credit code",
     "cat": "Structure",
     "def": "The 18-character identifier printed on the business licence. It is the company's tax number, customs number and filing key all at once.",
-    "see": ["annual-compliance-calendar", "opening-a-corporate-bank-account"]
+    "see": [
+      "annual-compliance-calendar",
+      "opening-a-corporate-bank-account"
+    ]
   },
   {
     "id": "registered-capital",
@@ -69,7 +91,10 @@
     "english": "Registered capital",
     "cat": "Money",
     "def": "The amount of capital the shareholders commit to contribute, written on the business licence. Since 2024 it must be paid in within five years, and it is the number creditors and regulators treat as the company's promise.",
-    "see": ["registered-capital-five-year-rule", "repatriating-profits-from-china"]
+    "see": [
+      "registered-capital-five-year-rule",
+      "repatriating-profits-from-china"
+    ]
   },
   {
     "id": "subscribed-capital",
@@ -78,7 +103,9 @@
     "english": "Subscribed capital",
     "cat": "Money",
     "def": "The capital a shareholder has promised to pay, as opposed to what has actually arrived. Under the five-year rule the gap between the two is a dated obligation, not an option.",
-    "see": ["registered-capital-five-year-rule"]
+    "see": [
+      "registered-capital-five-year-rule"
+    ]
   },
   {
     "id": "paid-in-capital",
@@ -87,7 +114,10 @@
     "english": "Paid-in capital",
     "cat": "Money",
     "def": "Capital that has actually been transferred into the company's capital account and verified. Banks and regulators look at paid-in, not subscribed, when judging whether the company can meet its obligations.",
-    "see": ["registered-capital-five-year-rule", "opening-a-corporate-bank-account"]
+    "see": [
+      "registered-capital-five-year-rule",
+      "opening-a-corporate-bank-account"
+    ]
   },
   {
     "id": "business-scope",
@@ -96,7 +126,11 @@
     "english": "Business scope",
     "cat": "Structure",
     "def": "The list of activities a company is registered to carry out, printed on the licence. Anything requiring a licence must be tied to one, and invoicing outside the scope is a common audit finding.",
-    "see": ["wfoe-jv-roe-comparison", "fapiao-for-foreign-founders"]
+    "see": [
+      "wfoe-jv-roe-comparison",
+      "fapiao-for-foreign-founders",
+      "company-name-and-business-scope"
+    ]
   },
   {
     "id": "legal-representative",
@@ -105,7 +139,11 @@
     "english": "Legal representative",
     "cat": "People",
     "def": "The person who binds the company in law and appears on the licence. The role carries personal exposure for compliance failures, and a foreign legal representative must usually hold a work permit.",
-    "see": ["work-permit-for-foreign-founders", "closing-a-company-in-china"]
+    "see": [
+      "work-permit-for-foreign-founders",
+      "closing-a-company-in-china",
+      "legal-representative-and-seals"
+    ]
   },
   {
     "id": "supervisor",
@@ -114,7 +152,9 @@
     "english": "Supervisor",
     "cat": "Structure",
     "def": "A statutory oversight role required in a Chinese limited company, separate from the directors. It cannot be held by the legal representative or a director, which is why founders often appoint a colleague.",
-    "see": ["wfoe-jv-roe-comparison"]
+    "see": [
+      "wfoe-jv-roe-comparison"
+    ]
   },
   {
     "id": "articles-of-association",
@@ -123,7 +163,10 @@
     "english": "Articles of association",
     "cat": "Structure",
     "def": "The constitutional document filed with the registry. It governs board composition, voting, profit distribution and transfer of shares; a bad set of articles is expensive to fix later.",
-    "see": ["wfoe-jv-roe-comparison", "hong-kong-holding-company"]
+    "see": [
+      "wfoe-jv-roe-comparison",
+      "hong-kong-holding-company"
+    ]
   },
   {
     "id": "company-seal",
@@ -132,7 +175,11 @@
     "english": "Company seal (chop)",
     "cat": "Structure",
     "def": "The red stamp that legally executes documents on behalf of the company. Physical control of the seal is control of the company, which is why it matters in shareholder disputes.",
-    "see": ["wfoe-jv-roe-comparison", "closing-a-company-in-china"]
+    "see": [
+      "wfoe-jv-roe-comparison",
+      "closing-a-company-in-china",
+      "legal-representative-and-seals"
+    ]
   },
   {
     "id": "registered-address",
@@ -141,7 +188,11 @@
     "english": "Registered address",
     "cat": "Compliance",
     "def": "The address on the business licence where the company is deemed to reside. It must be a real, documented space; a virtual or shared address can pass registration and still fail bank due diligence or an inspection.",
-    "see": ["registered-address-in-china", "opening-a-corporate-bank-account"]
+    "see": [
+      "registered-address-in-china",
+      "opening-a-corporate-bank-account",
+      "office-lease-and-premises"
+    ]
   },
   {
     "id": "corporate-bank-account",
@@ -150,7 +201,10 @@
     "english": "Corporate bank account",
     "cat": "Money",
     "def": "A bank account in the company's name, opened in person after registration. Without it the company cannot receive capital, pay salaries or invoice, and opening one is often the slowest step in the whole setup.",
-    "see": ["opening-a-corporate-bank-account", "registered-address-in-china"]
+    "see": [
+      "opening-a-corporate-bank-account",
+      "registered-address-in-china"
+    ]
   },
   {
     "id": "capital-account",
@@ -159,7 +213,11 @@
     "english": "Capital account",
     "cat": "Money",
     "def": "The account through which foreign shareholders inject registered capital. Money entering it is registered with the foreign-exchange authority and can later be used for permitted purposes or repatriated.",
-    "see": ["opening-a-corporate-bank-account", "repatriating-profits-from-china"]
+    "see": [
+      "opening-a-corporate-bank-account",
+      "repatriating-profits-from-china",
+      "capital-account-and-foreign-exchange"
+    ]
   },
   {
     "id": "foreign-exchange-registration",
@@ -168,7 +226,11 @@
     "english": "Foreign-exchange registration",
     "cat": "Money",
     "def": "The filing that links a company to its foreign shareholder for currency purposes. It is usually handled by the bank at account opening, and without it capital cannot be injected or profits remitted.",
-    "see": ["opening-a-corporate-bank-account", "repatriating-profits-from-china"]
+    "see": [
+      "opening-a-corporate-bank-account",
+      "repatriating-profits-from-china",
+      "capital-account-and-foreign-exchange"
+    ]
   },
   {
     "id": "fapiao",
@@ -177,7 +239,10 @@
     "english": "Official tax invoice (fapiao)",
     "cat": "Money",
     "def": "The invoice issued through the tax authority's system. Chinese companies generally cannot deduct an expense without one, so the fapiao system shapes who you can buy from and how you get paid.",
-    "see": ["fapiao-for-foreign-founders", "repatriating-profits-from-china"]
+    "see": [
+      "fapiao-for-foreign-founders",
+      "repatriating-profits-from-china"
+    ]
   },
   {
     "id": "vat",
@@ -186,7 +251,11 @@
     "english": "Value-added tax (VAT)",
     "cat": "Money",
     "def": "The main indirect tax, charged on sales and reclaimed on purchases. The rate depends on the activity — 13% for goods, 9% for some services and transport, 6% for most modern services.",
-    "see": ["fapiao-for-foreign-founders", "repatriating-profits-from-china"]
+    "see": [
+      "fapiao-for-foreign-founders",
+      "repatriating-profits-from-china",
+      "china-tax-for-small-companies"
+    ]
   },
   {
     "id": "cit",
@@ -195,7 +264,11 @@
     "english": "Corporate income tax (CIT)",
     "cat": "Money",
     "def": "Tax on company profits at a standard 25%. Small low-profit companies can qualify for an effective 5% rate, and high-tech enterprises for 15%, but both require meeting conditions and filing for them.",
-    "see": ["repatriating-profits-from-china", "annual-compliance-calendar"]
+    "see": [
+      "repatriating-profits-from-china",
+      "annual-compliance-calendar",
+      "china-tax-for-small-companies"
+    ]
   },
   {
     "id": "iit",
@@ -204,7 +277,10 @@
     "english": "Individual income tax (IIT)",
     "cat": "People",
     "def": "Tax on salaries and other personal income, withheld monthly by the employer. Foreign employees may qualify for special deductions, but the allowance rules are narrower than they were before 2022.",
-    "see": ["hiring-first-employee-china", "work-permit-for-foreign-founders"]
+    "see": [
+      "hiring-first-employee-china",
+      "work-permit-for-foreign-founders"
+    ]
   },
   {
     "id": "withholding-tax",
@@ -213,7 +289,10 @@
     "english": "Withholding tax",
     "cat": "Money",
     "def": "Tax withheld at source, most visibly the 10% on dividends paid to a foreign shareholder. A tax treaty can reduce the rate, but the reduced rate must be claimed with the right forms.",
-    "see": ["repatriating-profits-from-china", "hong-kong-holding-company"]
+    "see": [
+      "repatriating-profits-from-china",
+      "hong-kong-holding-company"
+    ]
   },
   {
     "id": "small-scale-taxpayer",
@@ -222,7 +301,10 @@
     "english": "Small-scale VAT taxpayer",
     "cat": "Money",
     "def": "The default VAT status for small companies: a low rate (currently 1% on many services) and no input-VAT credit. Simple, but it can block you from selling to larger companies that need a 6% or 13% fapiao.",
-    "see": ["fapiao-for-foreign-founders"]
+    "see": [
+      "fapiao-for-foreign-founders",
+      "china-tax-for-small-companies"
+    ]
   },
   {
     "id": "general-taxpayer",
@@ -231,7 +313,10 @@
     "english": "General VAT taxpayer",
     "cat": "Money",
     "def": "VAT status that allows input-VAT credit and the issuance of higher-rate fapiao. Most companies selling to other businesses need it; the registration is not automatic.",
-    "see": ["fapiao-for-foreign-founders"]
+    "see": [
+      "fapiao-for-foreign-founders",
+      "china-tax-for-small-companies"
+    ]
   },
   {
     "id": "annual-report",
@@ -240,7 +325,9 @@
     "english": "Annual report",
     "cat": "Compliance",
     "def": "The yearly filing to the market regulator, due between 1 January and 30 June. Missing it puts the company on the abnormal-operations list, which freezes bank activity and bidding.",
-    "see": ["annual-compliance-calendar"]
+    "see": [
+      "annual-compliance-calendar"
+    ]
   },
   {
     "id": "social-insurance",
@@ -249,7 +336,10 @@
     "english": "Social insurance",
     "cat": "People",
     "def": "Mandatory pension, medical, unemployment, injury and maternity contributions for employees. Rates vary by city, and the employer share is a real addition to salary cost.",
-    "see": ["hiring-first-employee-china", "work-permit-for-foreign-founders"]
+    "see": [
+      "hiring-first-employee-china",
+      "work-permit-for-foreign-founders"
+    ]
   },
   {
     "id": "housing-fund",
@@ -258,7 +348,9 @@
     "english": "Housing provident fund",
     "cat": "People",
     "def": "A compulsory savings contribution for employees, shared by employer and employee, used for housing. Foreign employees' participation varies by city and is often optional.",
-    "see": ["hiring-first-employee-china"]
+    "see": [
+      "hiring-first-employee-china"
+    ]
   },
   {
     "id": "work-permit",
@@ -267,7 +359,10 @@
     "english": "Work permit for foreigners",
     "cat": "People",
     "def": "The permit that allows a foreign national to work for a specific employer. It is graded A, B and C; most founders qualify under B, which requires a degree, two years of experience and a salary above the local threshold.",
-    "see": ["work-permit-for-foreign-founders", "hiring-first-employee-china"]
+    "see": [
+      "work-permit-for-foreign-founders",
+      "hiring-first-employee-china"
+    ]
   },
   {
     "id": "residence-permit",
@@ -276,7 +371,9 @@
     "english": "Residence permit",
     "cat": "People",
     "def": "The visa-equivalent that lets a foreign national stay in China for work, study or family reasons. A work permit is the prerequisite for a work-type residence permit.",
-    "see": ["work-permit-for-foreign-founders"]
+    "see": [
+      "work-permit-for-foreign-founders"
+    ]
   },
   {
     "id": "customs-registration",
@@ -285,7 +382,10 @@
     "english": "Customs registration",
     "cat": "Compliance",
     "def": "The registration that lets a company import or export in its own name. It is separate from the business licence and requires the company to have its foreign-trade operator status recorded.",
-    "see": ["negative-list"]
+    "see": [
+      "negative-list",
+      "importing-goods-into-china"
+    ]
   },
   {
     "id": "ftz",
@@ -294,7 +394,10 @@
     "english": "Free-trade zone (FTZ)",
     "cat": "Access",
     "def": "A designated area with a shorter negative list and pilot rules on foreign exchange, customs and investment. Shanghai, Shenzhen, Guangzhou and others have one; benefits are real but zone-specific.",
-    "see": ["negative-list", "hong-kong-holding-company"]
+    "see": [
+      "negative-list",
+      "hong-kong-holding-company"
+    ]
   },
   {
     "id": "hnte",
@@ -303,7 +406,9 @@
     "english": "High-tech enterprise (HNTE)",
     "cat": "Money",
     "def": "A certification that cuts corporate income tax to 15% and unlocks subsidies. It requires owned intellectual property, a qualifying R&D ratio and a local application process.",
-    "see": ["repatriating-profits-from-china"]
+    "see": [
+      "repatriating-profits-from-china"
+    ]
   },
   {
     "id": "tax-treaty",
@@ -312,7 +417,10 @@
     "english": "Tax treaty",
     "cat": "Money",
     "def": "A bilateral agreement that can reduce withholding tax on dividends, interest and royalties. China has treaties with most countries, but the rate applies only if the recipient qualifies and files for it.",
-    "see": ["repatriating-profits-from-china", "hong-kong-holding-company"]
+    "see": [
+      "repatriating-profits-from-china",
+      "hong-kong-holding-company"
+    ]
   },
   {
     "id": "liquidation",
@@ -321,7 +429,10 @@
     "english": "Liquidation",
     "cat": "Exit",
     "def": "The process of winding up a company's affairs — creditors, tax, employees, assets — before deregistration. It is the long part of closing a Chinese company and cannot be skipped.",
-    "see": ["closing-a-company-in-china"]
+    "see": [
+      "closing-a-company-in-china",
+      "changing-shareholders-and-exiting"
+    ]
   },
   {
     "id": "deregistration",
@@ -330,7 +441,10 @@
     "english": "Deregistration",
     "cat": "Exit",
     "def": "The final cancellation of the company's registration, after liquidation and tax clearance. Until it is done, the company remains alive for filings, penalties and the legal representative's record.",
-    "see": ["closing-a-company-in-china"]
+    "see": [
+      "closing-a-company-in-china",
+      "changing-shareholders-and-exiting"
+    ]
   },
   {
     "id": "nominee",
@@ -339,7 +453,10 @@
     "english": "Nominee shareholding",
     "cat": "Structure",
     "def": "Holding shares through a Chinese individual who appears on the register. Common because it is fast, risky because the nominee is legally the owner, and difficult to enforce without a written trust agreement.",
-    "see": ["wfoe-jv-roe-comparison", "do-you-need-a-china-entity"]
+    "see": [
+      "wfoe-jv-roe-comparison",
+      "do-you-need-a-china-entity"
+    ]
   },
   {
     "id": "vie",
@@ -348,7 +465,10 @@
     "english": "Variable interest entity (VIE)",
     "cat": "Structure",
     "def": "A structure where an offshore company controls a domestic operating company through contracts rather than shares, used where foreign ownership is restricted. It is a workaround with real enforcement risk, not a licence.",
-    "see": ["negative-list", "hong-kong-holding-company"]
+    "see": [
+      "negative-list",
+      "hong-kong-holding-company"
+    ]
   },
   {
     "id": "stamp-duty",
@@ -357,7 +477,11 @@
     "english": "Stamp duty",
     "cat": "Money",
     "def": "A small transaction tax on specified documents, charged to both parties in most cases: 0.03% on sales contracts, 0.1% on leases, 0.05% on equity transfers and 0.025% on capital account books. It is easy to overlook and easy to accrue penalties on.",
-    "see": ["china-tax-for-small-companies", "office-lease-and-premises", "changing-shareholders-and-exiting"]
+    "see": [
+      "china-tax-for-small-companies",
+      "office-lease-and-premises",
+      "changing-shareholders-and-exiting"
+    ]
   },
   {
     "id": "statutory-reserve",
@@ -366,7 +490,10 @@
     "english": "Statutory reserve fund",
     "cat": "Money",
     "def": "A fund built from 10% of after-tax profit until it reaches 50% of registered capital. Dividends cannot be distributed until the reserve is funded, which is one reason a profitable company can still be unable to pay out in its first years.",
-    "see": ["repatriating-profits-from-china", "china-tax-for-small-companies"]
+    "see": [
+      "repatriating-profits-from-china",
+      "china-tax-for-small-companies"
+    ]
   },
   {
     "id": "tax-recordal",
@@ -375,7 +502,10 @@
     "english": "Tax recordal for outbound payments",
     "cat": "Money",
     "def": "The filing that must be completed before a bank remits certain payments abroad — service fees, royalties, interest and similar current-account items above USD 50,000. The bank checks the recordal, the contract and the invoice before releasing the money.",
-    "see": ["capital-account-and-foreign-exchange", "repatriating-profits-from-china"]
+    "see": [
+      "capital-account-and-foreign-exchange",
+      "repatriating-profits-from-china"
+    ]
   },
   {
     "id": "equity-transfer",
@@ -384,7 +514,10 @@
     "english": "Equity transfer",
     "cat": "Exit",
     "def": "The sale of shares to an existing or new shareholder. It requires written notice to the other shareholders, who have 30 days to exercise a right of first refusal, plus tax on the gain and a registration change within 30 days.",
-    "see": ["changing-shareholders-and-exiting", "hong-kong-holding-company"]
+    "see": [
+      "changing-shareholders-and-exiting",
+      "hong-kong-holding-company"
+    ]
   },
   {
     "id": "annual-audit",
@@ -393,7 +526,10 @@
     "english": "Annual audit",
     "cat": "Compliance",
     "def": "The audit of the annual financial statements that most foreign-invested companies must complete and file. Dividends, capital reductions and many bank transactions depend on having the audit report in hand.",
-    "see": ["annual-compliance-calendar", "repatriating-profits-from-china"]
+    "see": [
+      "annual-compliance-calendar",
+      "repatriating-profits-from-china"
+    ]
   },
   {
     "id": "trademark",
@@ -402,7 +538,10 @@
     "english": "Trademark",
     "cat": "Access",
     "def": "A registered mark that gives exclusive rights in specified classes. China is first-to-file: the registration, not the use, creates the right, so a brand launched without filing can be lost to whoever files first.",
-    "see": ["trademark-and-ip-in-china", "company-name-and-business-scope"]
+    "see": [
+      "trademark-and-ip-in-china",
+      "company-name-and-business-scope"
+    ]
   },
   {
     "id": "customs-declarant",
@@ -411,6 +550,8 @@
     "english": "Customs declarant registration",
     "cat": "Access",
     "def": "The free filing that lets a company declare its own imports and exports through the single-window system. Without it, goods must be cleared through an agent, and the company cannot recover import VAT as a general taxpayer.",
-    "see": ["importing-goods-into-china"]
+    "see": [
+      "importing-goods-into-china"
+    ]
   }
 ]
