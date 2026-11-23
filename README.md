@@ -14,8 +14,8 @@ checked, and every rule names the authority behind it.
 - `sitegen/` — a zero-dependency Python static generator: Markdown subset renderer
   (`md.py`), layout and components (`layout.py`), page builders (`pages.py`,
   `pages_extra.py`), brand SVG (`svg.py`), site constants (`config.py`).
-- `content/` — all editorial content: 34 guides, 5 framework chapters, 12 sectors,
-  10 cities, 60 glossary entries, 41 FAQ answers, a 25-check decision sheet and
+- `content/` — all editorial content: 37 guides, 5 framework chapters, 12 sectors,
+  10 cities, 64 glossary entries, 43 FAQ answers, a 25-check decision sheet and
   4 content pages. Markdown with YAML-ish front matter; data as JSON.
 - `static/` — hand-written CSS and JavaScript. No frameworks, no build step, no fonts
   or scripts loaded from third parties.

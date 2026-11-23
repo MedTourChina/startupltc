@@ -734,5 +734,53 @@
       "education-and-training-access",
       "negative-list"
     ]
+  },
+  {
+    "id": "cross-border-ecommerce",
+    "term": "跨境电商",
+    "pinyin": "Kuàjìng diànshāng",
+    "english": "Cross-border e-commerce",
+    "cat": "Access",
+    "def": "The regime that lets an overseas seller sell to Chinese consumers from bonded warehouses (1210) or by direct parcel (9610), within a positive list, with zero tariff and import VAT at 70% of the statutory rate. It does not require a Chinese company, but it does require a domestic agent and platform compliance.",
+    "see": [
+      "selling-to-chinese-consumers",
+      "importing-goods-into-china"
+    ]
+  },
+  {
+    "id": "ccc-certification",
+    "term": "CCC认证",
+    "pinyin": "CCC rènzhèng",
+    "english": "CCC certification",
+    "cat": "Access",
+    "def": "China Compulsory Certification, required before sale for products on the catalogue — many electronics, toys, appliances and textiles. Certification is obtained by the manufacturer against the applicable GB standard, and the mark must appear on the product and packaging.",
+    "see": [
+      "selling-to-chinese-consumers",
+      "manufacturing-in-china"
+    ]
+  },
+  {
+    "id": "oem",
+    "term": "代工",
+    "pinyin": "Dàigōng",
+    "english": "OEM / contract manufacturing",
+    "cat": "Access",
+    "def": "Manufacturing to another company's specification and brand. The factory must have manufacturing in its business scope, and the buyer should own the tooling and the IP through a written agreement.",
+    "see": [
+      "manufacturing-in-china",
+      "trademark-and-ip-in-china"
+    ]
+  },
+  {
+    "id": "export-vat-refund",
+    "term": "出口退税",
+    "pinyin": "Chūkǒu tuìshuì",
+    "english": "Export VAT refund",
+    "cat": "Money",
+    "def": "The refund of input VAT on exported goods, at a rate set by the HS code — commonly 13% or 9%, sometimes zero. It requires a proper export declaration, a VAT special invoice from the supplier and an export-qualified entity.",
+    "see": [
+      "manufacturing-in-china",
+      "china-tax-for-small-companies"
+    ]
   }
 ]
