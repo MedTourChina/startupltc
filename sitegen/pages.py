@@ -279,6 +279,16 @@ def home(cities: list[dict], guides: list[dict], sectors: list[dict]) -> str:
 
 # ------------------------------------------------------------------ sectors
 
+def sector_more(s: dict) -> str:
+    slug = s.get("guide")
+    if not slug:
+        return ""
+    return (
+        f'<p class="sector-detail-more">'
+        f'{L.btn("Read the sector guide", f"/guides/{slug}/", "ghost")}</p>'
+    )
+
+
 def sectors_index(sectors: list[dict]) -> str:
     cards = "".join(sector_card(s) for s in sectors)
     blocks = []
@@ -302,6 +312,7 @@ def sectors_index(sectors: list[dict]) -> str:
   <p class="sector-detail-gate">{esc(s['gate_detail'])}</p>
   <p class="sector-detail-reality">{esc(s['reality'])}</p>
   <p class="sector-detail-watch"><strong>Watch for:</strong> {esc(s['watch'])}</p>
+  {sector_more(s)}
 </article>""")
 
     body = f"""

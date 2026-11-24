@@ -11,7 +11,8 @@
     "tagline": "The default WFOE: an invoice, a payroll and a desk.",
     "reality": "Registration is the easy part. The scope on the licence must match what you actually bill, and the line between consulting and regulated advice — legal, tax, securities, education, medical — is enforced when a client complains or an invoice looks wrong.",
     "watch": "Do not write 'investment advice', 'legal services' or 'medical consulting' into the scope because it sounds impressive. It invites a licence you do not have.",
-    "icon": "briefcase"
+    "icon": "briefcase",
+    "guide": "do-you-need-a-china-entity"
   },
   {
     "slug": "software",
@@ -25,7 +26,8 @@
     "tagline": "Sell code freely; sell access to a Chinese website and the telecom rules arrive.",
     "reality": "The foreign-equity cap on value-added telecom services is the reason many software founders sell to businesses through a WFOE and keep the consumer platform offshore — or license it to a domestic partner.",
     "watch": "A server in Singapore does not remove the obligation if your customers, payment and marketing are in China. Ask a telecom lawyer before you build the billing flow.",
-    "icon": "code"
+    "icon": "code",
+    "guide": "icp-filing-and-hosting-in-china"
   },
   {
     "slug": "ecommerce",
@@ -39,7 +41,8 @@
     "tagline": "Selling into China and selling inside China are two different businesses.",
     "reality": "The margin is in the licence and the logistics, not the storefront. Food, cosmetics, supplements and medical devices each carry their own registration or filing, and a marketplace will ask for it before your first sale.",
     "watch": "Do not import inventory before the product registration is in the name of the entity that will sell it. Re-labelling a shipment is not a compliance strategy.",
-    "icon": "cart"
+    "icon": "cart",
+    "guide": "selling-to-chinese-consumers"
   },
   {
     "slug": "trading-logistics",
@@ -53,7 +56,8 @@
     "tagline": "The simplest cash-flow business to start, and the hardest to get paid for.",
     "reality": "Import/export is a working-capital business. The entity is easy; the credit terms, the customs classification and the 90-day receivables are what decide whether it survives.",
     "watch": "A forwarder that offers to 'borrow' your import quota or invoice through a friend's company is offering you a tax problem with a Chinese name on it.",
-    "icon": "truck"
+    "icon": "truck",
+    "guide": "logistics-and-freight-forwarding"
   },
   {
     "slug": "manufacturing",
@@ -67,7 +71,8 @@
     "tagline": "The negative list is no longer the obstacle; the landlord and the EIA are.",
     "reality": "A factory lease signed before the environmental impact assessment is a bet that the assessment will pass. In many districts it will not, and the deposit is gone. Budget for the EIA, utilities and a compliant waste contract before equipment.",
     "watch": "Do not accept a landlord's assurance that 'the address is fine for industry'. Ask for the zoning certificate and the previous tenant's EIA approval, in writing.",
-    "icon": "factory"
+    "icon": "factory",
+    "guide": "manufacturing-in-china"
   },
   {
     "slug": "food-beverage",
@@ -81,7 +86,8 @@
     "tagline": "A restaurant is a property deal with a kitchen attached.",
     "reality": "The address decides the business: grease traps, ventilation, gas, waste and neighbouring consent are all physical. A cheap unit that cannot pass the kitchen inspection is the most common way a foreign F&B founder loses a year.",
     "watch": "Do not sign a five-year lease on a site whose previous tenant was not a restaurant. The extraction and waste infrastructure is usually the whole problem.",
-    "icon": "coffee"
+    "icon": "coffee",
+    "guide": "restaurant-and-food-business"
   },
   {
     "slug": "education",
@@ -95,7 +101,8 @@
     "tagline": "The widest gap between what founders plan and what is licensable.",
     "reality": "Language training, test prep, early-years and corporate training sit under different rules, and the local education bureau applies them differently. A licence to teach adults is not a licence to teach children.",
     "watch": "Do not open classrooms while the licence is 'in progress'. The inspection that closes you is usually triggered by a parent, not a competitor.",
-    "icon": "users"
+    "icon": "users",
+    "guide": "education-and-training-access"
   },
   {
     "slug": "healthcare",
@@ -109,7 +116,8 @@
     "tagline": "Pilot cities change; leases do not.",
     "reality": "The health commission, not the company registry, decides whether you can operate. Approval depends on beds, departments, equipment, infection control and the named medical director — and the process is local.",
     "watch": "Do not lease or equip a clinic until the local health commission confirms, in writing, that your proposed scope and ownership structure are eligible in that district.",
-    "icon": "health"
+    "icon": "health",
+    "guide": "healthcare-and-medical-devices"
   },
   {
     "slug": "tourism",
@@ -137,7 +145,8 @@
     "tagline": "The shortest part of the negative list to read, and the hardest to work around.",
     "reality": "Most foreign media founders end up as a production, advertising or technology company selling services to licensed Chinese publishers — not as the publisher. That is a different business with a different margin.",
     "watch": "Do not describe your entity as a 'media company' or 'publisher' in its scope unless you have the licence. The scope is evidence.",
-    "icon": "file"
+    "icon": "file",
+    "guide": "advertising-and-content-rules"
   },
   {
     "slug": "design",
@@ -151,7 +160,8 @@
     "tagline": "Design the brand freely; do not stamp the drawing.",
     "reality": "Creative founders underprice the qualification boundary. A studio that designs a fit-out is fine; a studio that signs the drawing for the fit-out permit is practising engineering without a licence.",
     "watch": "Keep the contract for construction documents with a qualified local design institute. Your name can be on the concept, not on the stamp.",
-    "icon": "spark"
+    "icon": "spark",
+    "guide": "trademark-and-ip-in-china"
   },
   {
     "slug": "finance",
@@ -165,6 +175,7 @@
     "tagline": "A licensing business, not a software business.",
     "reality": "The licence comes first, and it is usually granted to an entity with a domestic shareholder, a capital base and a regulatory history. A new WFOE with a good app is not a candidate for most financial licences.",
     "watch": "Do not hold, pool or transmit client funds through a consulting WFOE while 'waiting for the licence'. That is the fact pattern regulators treat as unlicensed payment business.",
-    "icon": "bank"
+    "icon": "bank",
+    "guide": "fintech-and-payments"
   }
 ]

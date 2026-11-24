@@ -3448,6 +3448,8 @@ h4 {
 .sector-detail-gate { color: var(--ink); }
 .sector-detail-watch { color: var(--ink); }
 .sector-detail-watch strong { color: var(--amber-deep); }
+.sector-detail-more { margin: 1.2rem 0 0; }
+.sector-detail-more .btn { margin-top: 0; }
 
 /* --- city sector chips ------------------------------------------- */
 .city-chips { display: flex; flex-wrap: wrap; gap: 0.45rem; }

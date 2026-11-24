@@ -213,5 +213,20 @@
     "cat": "Money, tax & banking",
     "q": "Should I sell through Tmall or cross-border e-commerce?",
     "a": "General trade needs a Chinese company, an import licence, CCC certification where applicable and Chinese labelling, but it allows scale and business customers who need a fapiao. Cross-border e-commerce lets an overseas company sell within a positive list with zero tariff, at reduced import VAT — good for testing, weaker for scale. See [selling to Chinese consumers](/guides/selling-to-chinese-consumers/)."
+  },
+  {
+    "cat": "Deciding",
+    "q": "Can a foreigner own a restaurant in China?",
+    "a": "Yes — food service is not on the negative list, so 100% foreign ownership is allowed. The gate is the premises: commercial zoning, an exhaust route, a kitchen layout that passes the food business licence, and a fire inspection. Three to six months, and never sign the lease before the district regulator has seen the floor plan. See [restaurants](/guides/restaurant-and-food-business/)."
+  },
+  {
+    "cat": "Structure & ownership",
+    "q": "Do I need a licence to arrange freight or deliver parcels?",
+    "a": "Forwarding is a MOFCOM filing, not a licence. Running trucks needs a road transport operating licence, and domestic express delivery needs a postal licence and is limited to joint ventures for foreign investors. Warehousing needs fire approval, not a sector licence. See [logistics](/guides/logistics-and-freight-forwarding/)."
+  },
+  {
+    "cat": "Deciding",
+    "q": "Can I start a payments or lending company?",
+    "a": "Not as a startup. Third-party payment licences have not been newly issued for years and are acquired with regulator approval; lending licences require large capital and, for consumer finance, a bank sponsor. Investment advice needs a CSRC licence. The open door is selling software and compliance tooling to licensed institutions. See [fintech](/guides/fintech-and-payments/)."
   }
 ]

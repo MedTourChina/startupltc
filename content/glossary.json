@@ -782,5 +782,53 @@
       "manufacturing-in-china",
       "china-tax-for-small-companies"
     ]
+  },
+  {
+    "id": "food-business-licence",
+    "term": "食品经营许可证",
+    "pinyin": "Shípǐn jīngyíng xǔkězhèng",
+    "english": "Food business licence",
+    "cat": "Access",
+    "def": "The licence for selling or serving food, issued against a specific kitchen layout, equipment list and food safety officer. A restaurant, a food shop and a delivery kitchen each need their own, tied to the premises.",
+    "see": [
+      "restaurant-and-food-business",
+      "importing-goods-into-china"
+    ]
+  },
+  {
+    "id": "labour-dispatch-licence",
+    "term": "劳务派遣经营许可证",
+    "pinyin": "Láowù pàiqiǎn jīngyíng xǔkězhèng",
+    "english": "Labour dispatch licence",
+    "cat": "People",
+    "def": "The licence for employing staff and sending them to work under a client's direction. Requires at least ¥2 million of registered capital, a municipal licence, and compliance with the 10% cap and the temporary/auxiliary/substitute rule.",
+    "see": [
+      "hr-and-recruitment-business",
+      "hiring-first-employee-china"
+    ]
+  },
+  {
+    "id": "payment-licence",
+    "term": "支付业务许可证",
+    "pinyin": "Zhīfù yèwù xǔkězhèng",
+    "english": "Payment business licence",
+    "cat": "Access",
+    "def": "The PBOC licence for third-party payment services. No new licences have been issued for years; entry is by acquiring a licensed company with approval, and foreign-invested payment institutions face strict conditions.",
+    "see": [
+      "fintech-and-payments",
+      "getting-paid-in-china"
+    ]
+  },
+  {
+    "id": "bonded-warehouse",
+    "term": "保税仓库",
+    "pinyin": "Bǎoshuì cāngkù",
+    "english": "Bonded warehouse",
+    "cat": "Access",
+    "def": "A customs-supervised warehouse where imported goods are stored with duty deferred until they enter the domestic market or are re-exported. Central to cross-border e-commerce and to manufacturing with imported materials.",
+    "see": [
+      "logistics-and-freight-forwarding",
+      "selling-to-chinese-consumers"
+    ]
   }
 ]
