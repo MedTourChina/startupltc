@@ -148,6 +148,8 @@ LAYER_TOOLS = {
          "Exporting through an agent, using a partner, or waiting — and what each costs you."),
         ("Choose the city before the address", "/guides/choosing-a-city-for-your-china-business/",
          "Four variables that actually differ, and the reasons not to pick by airport."),
+        ("Plan the first 90 days", "/guides/first-90-days/",
+         "The order that works, the steps that run in parallel, and the three that stall."),
     ],
     2: [
         ("Check your sector", "/sectors/",
@@ -172,6 +174,8 @@ LAYER_TOOLS = {
     3: [
         ("Follow the registration sequence", "/guides/company-registration-step-by-step/",
          "Eight steps, realistic timings, and the five places filings stall."),
+        ("Run due diligence on the partner", "/guides/due-diligence-on-a-chinese-partner/",
+         "Registry, enforcement and capital actually paid in — and the five red flags that end the deal."),
         ("Run the structure chooser", "/tools/structure/",
          "WFOE, JV, representative office or Hong Kong holding company, by what you need it to do."),
         ("Read the WFOE/JV/RO comparison", "/guides/wfoe-jv-roe-comparison/",

@@ -131,7 +131,8 @@
     "tagline": "Inbound is the niche a foreign founder can actually own.",
     "reality": "The licence and deposit are only the entry ticket. Distribution in China runs through platforms and licensed agencies, and a hotel's star rating is a licensing process, not a marketing label.",
     "watch": "If your product is 'we take Chinese guests abroad', you are in outbound travel. A WFOE cannot hold that licence, and routing it through a friend's agency is a compliance problem, not a structure.",
-    "icon": "map"
+    "icon": "map",
+    "guide": "tourism-and-hospitality-business"
   },
   {
     "slug": "media",
@@ -146,7 +147,7 @@
     "reality": "Most foreign media founders end up as a production, advertising or technology company selling services to licensed Chinese publishers — not as the publisher. That is a different business with a different margin.",
     "watch": "Do not describe your entity as a 'media company' or 'publisher' in its scope unless you have the licence. The scope is evidence.",
     "icon": "file",
-    "guide": "advertising-and-content-rules"
+    "guide": "media-and-content-business"
   },
   {
     "slug": "design",

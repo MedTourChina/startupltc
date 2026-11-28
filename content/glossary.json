@@ -830,5 +830,40 @@
       "logistics-and-freight-forwarding",
       "selling-to-chinese-consumers"
     ]
+  },
+  {
+    "id": "travel-agency-licence",
+    "term": "旅行社业务经营许可证",
+    "pinyin": "Lǚxíngshè yèwù jīngyíng xǔkězhèng",
+    "english": "Travel agency business licence",
+    "cat": "Access",
+    "def": "The tourism authority licence for selling travel services, with a bank deposit (¥200,000 for domestic and inbound; ¥1.4 million for outbound). Foreign-invested agencies may sell domestic and inbound travel; outbound remains a restricted pilot.",
+    "see": [
+      "tourism-and-hospitality-business"
+    ]
+  },
+  {
+    "id": "special-industry-licence",
+    "term": "特种行业许可证",
+    "pinyin": "Tèzhǒng hángyè xǔkězhèng",
+    "english": "Special industry licence",
+    "cat": "Access",
+    "def": "The public security permit for businesses with elevated public-order risk — hotels, guesthouses, seal carving, recycling, locksmiths. For a hotel it is the permit that follows fire acceptance and precedes opening.",
+    "see": [
+      "tourism-and-hospitality-business",
+      "legal-representative-and-seals"
+    ]
+  },
+  {
+    "id": "game-approval",
+    "term": "游戏版号",
+    "pinyin": "Yóuxì bǎnhào",
+    "english": "Game ISBN approval",
+    "cat": "Access",
+    "def": "The national press and publication approval required before a game can be commercially released in China. A foreign game is published by a licensed Chinese publisher who holds the approval; the queue is the schedule.",
+    "see": [
+      "media-and-content-business",
+      "trademark-and-ip-in-china"
+    ]
   }
 ]
