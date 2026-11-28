@@ -560,8 +560,8 @@ def content_page(post: dict, *, nav_active: str | None = None) -> str:
 
 
 def faq_page(items: list[dict]) -> str:
-    order = ["Deciding", "Structure & ownership", "Money, tax & banking",
-             "People & permits", "Compliance & exit"]
+    order = ["Deciding", "Structure & ownership", "Access & licences",
+             "Money, tax & banking", "People & permits", "Compliance & exit"]
     blocks = []
     for cat in order:
         group = [x for x in items if x["cat"] == cat]
